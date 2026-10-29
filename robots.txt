@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uzumslot.dokufolio.com/sitemap.xml
